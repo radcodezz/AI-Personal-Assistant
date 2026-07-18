@@ -9,7 +9,7 @@ from rag.document_loader import load_pdf
 from rag.text_splitter import split_text
 from rag.vector_store import create_vector_store, save_vector_store
 
-from rag import ask_pdf
+from rag.rag import ask_pdf
 
 st.set_page_config(
     page_title="AI Personal Assistant",
