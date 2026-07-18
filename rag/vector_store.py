@@ -2,7 +2,7 @@ import os
 import shutil
 
 from langchain_community.vectorstores import FAISS
-from embeddings import embedding_model
+from rag.embeddings import embedding_model
 
 
 def create_vector_store(chunks):
