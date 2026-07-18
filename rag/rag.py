@@ -1,4 +1,4 @@
-from retriever import retrieve_chunks
+from rag.retriever import retrieve_chunks
 from llm import llm
 
 
