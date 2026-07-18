@@ -129,11 +129,5 @@ streamlit run app.py
 
 **Radhey Shyam Sharma**
 
-M.Sc. Statistics & Computing  
-Banaras Hindu University
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
