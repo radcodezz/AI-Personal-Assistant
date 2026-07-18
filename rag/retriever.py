@@ -1,4 +1,4 @@
-from vector_store import load_vector_store
+from rag.vector_store import load_vector_store
 
 
 def retrieve_chunks(query, k=3):
